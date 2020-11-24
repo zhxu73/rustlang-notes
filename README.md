@@ -20,7 +20,8 @@ Rust has the concept of ownership to help manage memory allocation.
 > - Each value in Rust has a variable that’s called its owner.
 > - There can only be one owner at a time.
 > - When the owner goes out of scope, the value will be dropped.
-> from [The Rust Programming Lanaguage] (https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#ownership-rules)
+>
+> from [The Rust Programming Lanaguage](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#ownership-rules)
 
 ## Desirable Language Characteristics
 
